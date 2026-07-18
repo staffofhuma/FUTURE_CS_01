@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents my work for the Future Interns Cyber Security Internship Program.
+This repository documents my work for the Future Interns Cyber Security Task 1: **Vulnerability Assessment Report**.
 
 The objective of this task was to perform a passive vulnerability assessment of a publicly accessible web application and document identified security weaknesses, associated risks, and remediation recommendations in a professional report format.
 
